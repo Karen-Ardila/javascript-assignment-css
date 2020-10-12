@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin-left: 1rem;
+}
+a{
+    color: turquoise;
+}
+body{
+    background-color: navy;
+}
+#head {
+    background-color: brown;
+    color: gray;
+    margin: 1rem;
+}
+
+#wraper {
+    display: flex;
+    margin: 1rem;   
+}
+
+#left-menu {
+    height: 50%;
+    background-color: steelblue;
+    color: turquoise;
+    margin-right: 2rem;
+}
+.border{
+    border-radius: 25px;
+    padding: 1rem;
+}
+#main-content{
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+#footer{
+   background-color: gray;
+   color: ivory;
+   margin: 1rem;
+}
